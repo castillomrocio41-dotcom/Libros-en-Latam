@@ -1,0 +1,183 @@
+pais,anio,titulos_registrados_isbn,ejemplares_producidos_millones,facturacion_estimada_millones_usd,tirada_promedio_ejemplares,variacion_anual_pct,formato_digital_pct,poblacion_millones,ejemplares_per_capita,contexto,fuente_principal,notas
+Argentina,2000,18500,65.0,320,4800,,,37.1,1.75,,CAL / CEDEM,Pre-crisis; apogeo editorial tradicional
+Argentina,2001,17000,52.0,265,4500,-20.0,,37.4,1.39,Crisis económica,CAL / CEDEM,Recesión severa
+Argentina,2002,14000,38.0,160,4000,-39.6,,37.7,1.01,Crisis 2001-2002,CAL / CEDEM,Devaluación; mínimo histórico
+Argentina,2003,16500,45.0,180,4200,12.5,,38.0,1.18,Recuperación,CAL / CEDEM,Inicio de recuperación
+Argentina,2004,19000,55.0,210,4400,16.7,,38.4,1.43,Recuperación,CAL / CEDEM,Crecimiento sostenido
+Argentina,2005,22000,65.0,250,4600,19.0,,38.7,1.68,Crecimiento,CAL / OIC,Feria del Libro récord
+Argentina,2006,24000,72.0,275,4700,10.0,,39.1,1.84,Crecimiento,CAL / OIC,Boom de no ficción
+Argentina,2007,26000,78.0,310,4800,12.7,,39.4,1.98,Crecimiento,CAL / OIC,Pico producción de la década
+Argentina,2008,27500,82.0,335,4850,8.1,,39.7,2.07,Auge,CAL / OIC,Máximo histórico ejemplares
+Argentina,2009,27000,80.0,320,4700,-4.5,,40.1,2.00,Leve contracción,CAL / OIC,Impacto crisis financiera global
+Argentina,2010,28000,84.0,350,4900,9.4,,40.4,2.08,Crecimiento,CAL / CEDEM,Pico tirada promedio
+Argentina,2011,29000,90.0,380,4900,8.6,,40.7,2.21,Auge,CAL / CEDEM,Pico histórico producción editorial
+Argentina,2012,30000,94.0,360,4700,-5.3,2,41.1,2.29,Estabilización,CAL / CEDEM,94M ejemplares; inicio digitalización
+Argentina,2013,30500,88.0,340,4500,-6.4,3,41.4,2.13,Inicio retracción,CAL / SInCA,Tiradas empiezan a caer
+Argentina,2014,31000,82.0,310,4200,-8.8,4,41.7,1.97,Retracción,CAL / SInCA,Inflación afecta costos del papel
+Argentina,2015,32000,83.0,290,3800,-6.5,5,42.1,1.97,Cambio de gobierno,CAL / SInCA,Primeros efectos período Macri
+Argentina,2016,30000,72.0,255,2700,-12.1,6,42.4,1.70,Retracción,CAL / SInCA,Tirada cae de 4000 a 2700
+Argentina,2017,28000,60.0,230,2400,-16.7,7,42.8,1.40,Retracción,CAL / SInCA,Ajuste fiscal impacta consumo
+Argentina,2018,27000,50.0,190,2200,-17.4,9,43.1,1.16,Crisis cambiaria,CAL / SInCA,Devaluación; papel se encarece
+Argentina,2019,26000,35.0,150,2000,-21.1,11,43.4,0.81,Recesión,CAL / SInCA,Mínimo del período Macri
+Argentina,2020,22000,30.0,120,1600,-20.0,14,44.0,0.68,Pandemia COVID-19,CAL informe anual,83% editoriales declaran caída
+Argentina,2021,28000,42.0,140,1700,16.7,16,44.5,0.94,Recuperación,CAL informe anual,+24% novedades vs 2020
+Argentina,2022,35000,63.0,200,1900,42.9,18,45.0,1.40,Recuperación,CAL / Monitor Editorial,35k títulos; +23% ejemplares
+Argentina,2023,34002,47.9,175,1891,-24.0,22,45.4,1.06,Retracción,CAL / Monitor Editorial,SEC cayó 24%
+Argentina,2024,31200,52.6,140,1646,-14.0,22,45.9,1.15,Crisis Milei,CAL informe 2024,SEC = 11.1M (-14%)
+Argentina,2025,29000,45.0,115,1500,-20.0,23,46.4,0.97,Contracción (est.),Proyección CAL,Estimado Q1 2025
+México,2000,20000,145.0,650,7200,,,100.0,1.45,,CANIEM / INDAUTOR,Sector educativo ~50% del volumen
+México,2001,21000,148.0,660,7100,1.5,,101.5,1.46,,CANIEM,Estabilidad
+México,2002,22000,150.0,670,7000,1.7,,102.9,1.46,,CANIEM,Crecimiento sostenido
+México,2003,22500,152.0,680,6900,1.5,,104.3,1.46,,CANIEM,CONALITEG domina volumen
+México,2004,23000,158.0,700,6800,3.0,,105.7,1.49,,CANIEM,Expansión mercado escolar
+México,2005,23500,162.0,720,6700,2.9,,107.1,1.51,,CANIEM,Estabilidad estructural
+México,2006,24000,165.0,740,6600,2.8,,108.4,1.52,,CANIEM,Tiradas altas sector educativo
+México,2007,24500,168.0,760,6500,2.7,,109.8,1.53,,CANIEM,Crecimiento estable
+México,2008,25000,170.0,775,6400,2.0,,111.2,1.53,,CANIEM,Pico del período 2000-2012
+México,2009,24500,162.0,730,6300,-5.9,,112.5,1.44,Crisis financiera global,CANIEM,Primer impacto crisis internacional
+México,2010,24800,165.0,745,6200,2.0,,113.9,1.45,,CANIEM,Recuperación leve
+México,2011,25000,168.0,760,6100,2.0,,115.3,1.46,,CANIEM,Estabilidad
+México,2012,25200,170.0,770,6000,1.3,,116.7,1.46,,CANIEM,Inicio caída estructural tiradas
+México,2013,25500,165.0,755,5800,-2.9,,118.1,1.40,,CANIEM,Caída ejemplares comerciales
+México,2014,26000,160.0,740,5600,-3.0,,119.5,1.34,,CANIEM,Tirada promedio baja
+México,2015,26500,155.0,720,5300,-2.7,,120.9,1.28,,CANIEM,Mínimo relativo Peña Nieto
+México,2016,27000,148.0,690,5000,-4.5,,122.3,1.21,,CANIEM,Reducción compras gubernamentales
+México,2017,24527,136.0,670,5000,-8.1,,123.7,1.10,,CANIEM,136M ventas; facturación 10.125 MXN
+México,2018,25000,130.0,640,4800,-4.4,,125.0,1.04,,CANIEM,Caída mercado abierto
+México,2019,24000,123.0,610,4600,-5.4,,126.4,0.97,Pre-pandemia,CANIEM,123M ventas; 11.234 MMXN
+México,2020,22000,105.0,500,4400,-14.6,5,127.8,0.82,Pandemia COVID-19,CANIEM,De 120M a 105M (-11.6%)
+México,2021,24051,99.2,490,4300,-5.5,7,129.2,0.77,Recuperación parcial,CANIEM,ISBN +37% vs 2020
+México,2022,26000,104.8,540,4200,5.6,9,130.5,0.80,Recuperación,CANIEM,Ventas +5%; producción 93M ej.
+México,2023,27000,102.0,525,4100,-2.7,11,131.9,0.77,Estabilización,CANIEM,Importaciones = 14% del total
+México,2024,26500,99.5,510,3900,-2.5,13,133.3,0.75,Leve contracción,CANIEM,Reducción general 2.6%
+México,2025,26000,96.0,495,3700,-3.5,15,134.7,0.71,Contracción (est.),Proyección CANIEM,Estimado tendencia 2024
+Colombia,2000,5800,18.0,95,3100,,,42.9,0.42,,Cámara Colombiana del Libro / CERLALC,Mercado pequeño en crecimiento
+Colombia,2001,6000,18.5,97,3100,2.8,,43.5,0.43,,CCL / CERLALC,Estabilidad
+Colombia,2002,6200,19.0,99,3100,2.7,,44.1,0.43,,CCL / CERLALC,Crecimiento moderado
+Colombia,2003,6400,19.5,102,3100,3.0,,44.6,0.44,,CCL / CERLALC,Consolidación
+Colombia,2004,6800,20.5,108,3100,5.9,,45.2,0.45,,CCL / CERLALC,Expansión mercado educativo
+Colombia,2005,7200,21.5,115,3000,6.3,,45.8,0.47,,CCL / CERLALC,FILBo crece sostenidamente
+Colombia,2006,7600,22.5,122,3000,6.1,,46.3,0.49,,CCL / CERLALC,FILBo consolida sector
+Colombia,2007,8200,24.0,130,3000,6.5,,46.9,0.51,,CCL / CERLALC,Crecimiento sostenido
+Colombia,2008,9000,26.0,140,2900,8.3,,47.4,0.55,,CCL / CERLALC,Pico primera expansión
+Colombia,2009,9200,26.5,138,2900,1.9,,48.0,0.55,Crisis global,CCL / CERLALC,Leve impacto crisis global
+Colombia,2010,9500,27.5,145,2900,3.8,,48.5,0.57,,CCL / CERLALC,Recuperación sólida
+Colombia,2011,10000,29.0,155,2900,5.5,,49.1,0.59,,CCL / CERLALC,Buen desempeño
+Colombia,2012,10500,30.0,162,2850,3.4,2,49.6,0.60,,CCL / CERLALC,Inicio digitalización
+Colombia,2013,11000,30.5,165,2800,1.7,3,50.2,0.61,,CCL / CERLALC,Crecimiento leve
+Colombia,2014,11200,30.0,160,2750,-1.6,4,50.7,0.59,,CCL / CERLALC,Caída real 4.3%
+Colombia,2015,11500,29.5,155,2700,-1.7,5,51.2,0.58,,CCL / CERLALC,Mercado estancado
+Colombia,2016,11800,29.0,150,2650,-1.7,6,51.8,0.56,,CCL / CERLALC,Caída real sostenida
+Colombia,2017,12000,29.5,153,2600,1.7,7,52.3,0.56,,CCL / CERLALC,Leve recuperación
+Colombia,2018,12200,29.0,150,2550,-2.0,9,52.8,0.55,,CCL / CERLALC,Estancamiento estructural
+Colombia,2019,12500,29.5,152,2500,1.7,10,53.4,0.55,,CCL / CERLALC,Estable pre-pandemia
+Colombia,2020,10500,24.0,118,2300,-18.6,14,54.0,0.44,Pandemia COVID-19,CCL / CERLALC,Cierre librerías; caída significativa
+Colombia,2021,13000,28.0,138,2350,16.7,17,54.6,0.51,Recuperación,CCL / CERLALC,Fuerte rebote post-pandemia
+Colombia,2022,14000,31.0,155,2400,10.7,19,55.1,0.56,Recuperación,CCL / CERLALC,FILBo 2022 récord asistencia
+Colombia,2023,13500,29.5,148,2350,-4.8,21,55.7,0.53,Estabilización,CCL / CERLALC,Normalización post-pandemia
+Colombia,2024,13000,28.0,140,2300,-5.1,22,56.2,0.50,Contracción leve,CCL / CERLALC,Caída consumo por inflación
+Colombia,2025,12500,27.0,133,2250,-3.6,23,56.8,0.48,Contracción (est.),Proyección CCL,Estimado tendencia 2024
+Chile,2000,4200,12.0,90,2860,,,15.4,0.78,,Cámara Chilena del Libro / CERLALC,Mercado concentrado en Santiago
+Chile,2001,4300,12.2,91,2800,1.7,,15.6,0.78,,CCdL / CERLALC,Estabilidad
+Chile,2002,4100,11.5,86,2800,-5.7,,15.7,0.73,Crisis regional,CCdL / CERLALC,Impacto crisis argentina
+Chile,2003,4300,12.0,90,2800,4.3,,15.9,0.75,,CCdL / CERLALC,Recuperación
+Chile,2004,4600,13.0,98,2830,8.3,,16.1,0.81,,CCdL / CERLALC,Crecimiento sólido
+Chile,2005,5000,14.0,106,2800,7.7,,16.3,0.86,,CCdL / CERLALC,Expansión del mercado
+Chile,2006,5300,14.8,112,2790,5.7,,16.4,0.90,,CCdL / CERLALC,Buen desempeño
+Chile,2007,5600,15.5,118,2770,4.7,,16.6,0.93,,CCdL / CERLALC,Crecimiento sostenido
+Chile,2008,5900,16.0,122,2710,3.2,,16.8,0.95,,CCdL / CERLALC,Pico del período
+Chile,2009,5700,15.0,113,2630,-6.3,,17.0,0.88,Crisis global,CCdL / CERLALC,Terremoto y crisis golpean sector
+Chile,2010,5800,14.5,110,2500,-3.3,,17.1,0.85,Terremoto 27F,CCdL / CERLALC,Reconstrucción afecta consumo
+Chile,2011,6200,16.0,122,2580,10.3,,17.3,0.92,,CCdL / CERLALC,Recuperación fuerte
+Chile,2012,6500,16.8,128,2580,5.0,2,17.4,0.97,,CCdL / CERLALC,Buen desempeño
+Chile,2013,6800,17.0,130,2500,1.2,3,17.6,0.97,,CCdL / CERLALC,Estabilización
+Chile,2014,7000,16.5,126,2360,-2.9,5,17.8,0.93,,CCdL / CERLALC,Leve contracción
+Chile,2015,7200,16.0,122,2220,-3.0,6,18.0,0.89,,CCdL / CERLALC,Caída tirada promedio
+Chile,2016,7400,15.5,118,2090,-3.1,8,18.1,0.86,,CCdL / CERLALC,Caída sostenida
+Chile,2017,7600,15.0,114,1970,-3.2,9,18.3,0.82,,CCdL / CERLALC,Tirada baja a ~2000
+Chile,2018,7800,14.5,110,1860,-3.3,11,18.5,0.78,,CCdL / CERLALC,Precio promedio libro sube
+Chile,2019,8000,14.0,107,1750,-3.4,12,18.7,0.75,Estallido Social,CCdL / CERLALC,Cierre comercios; Q4 muy afectado
+Chile,2020,6500,11.0,83,1690,-21.4,16,18.9,0.58,Pandemia + Estallido,CCdL / CERLALC,Doble impacto social y sanitario
+Chile,2021,8500,14.0,106,1650,27.3,19,19.0,0.74,Recuperación,CCdL / CERLALC,Bono gobierno dinamiza consumo
+Chile,2022,9000,15.5,118,1720,10.7,21,19.2,0.81,Recuperación,CCdL / CERLALC,FIL Santiago recupera asistencia
+Chile,2023,8800,14.5,110,1650,-6.5,22,19.3,0.75,Estabilización,CCdL / CERLALC,Inflación modera consumo
+Chile,2024,8500,13.8,105,1620,-4.8,23,19.5,0.71,Contracción leve,CCdL / CERLALC,Ajuste presupuestario hogares
+Chile,2025,8200,13.0,99,1580,-5.8,24,19.6,0.66,Contracción (est.),Proyección CCdL,Estimado tendencia 2024
+Perú,2000,2200,6.5,32,2950,,,25.7,0.25,,CERLALC / BNP,Lima concentra 90% del mercado
+Perú,2001,2300,6.7,33,2900,3.1,,26.1,0.26,,CERLALC / BNP,Crecimiento lento
+Perú,2002,2400,7.0,35,2920,4.5,,26.5,0.26,,CERLALC / BNP,Estabilidad
+Perú,2003,2500,7.2,36,2880,2.9,,26.9,0.27,,CERLALC / BNP,Expansión leve
+Perú,2004,2700,7.8,39,2890,8.3,,27.3,0.29,,CERLALC / BNP,Boom económico impulsa consumo
+Perú,2005,2900,8.3,42,2860,6.4,,27.8,0.30,,CERLALC / BNP,Crecimiento sostenido
+Perú,2006,3100,8.8,45,2840,6.0,,28.3,0.31,,CERLALC / BNP,Expansión
+Perú,2007,3400,9.5,49,2790,8.0,,28.7,0.33,,CERLALC / BNP,Auge económico; clase media crece
+Perú,2008,3700,10.2,53,2760,7.4,,29.2,0.35,,CERLALC / BNP,Boom minero dinamiza mercado
+Perú,2009,3600,9.8,51,2720,-3.9,,29.6,0.33,Crisis global,CERLALC / BNP,Leve impacto
+Perú,2010,3900,10.5,55,2690,7.1,,30.1,0.35,,CERLALC / BNP,Recuperación sólida
+Perú,2011,4200,11.2,59,2670,6.7,,30.5,0.37,,CERLALC / BNP,Expansión mercado
+Perú,2012,4500,11.8,63,2620,5.4,1,31.0,0.38,,CERLALC / BNP,Crecimiento sostenido
+Perú,2013,4800,12.0,65,2500,1.7,2,31.5,0.38,,CERLALC / BNP,Estabilización
+Perú,2014,5000,11.8,63,2360,-1.7,3,31.9,0.37,,CERLALC / BNP,Leve caída
+Perú,2015,5100,11.5,61,2260,-2.5,4,32.4,0.36,,CERLALC / BNP,Caída tirada promedio
+Perú,2016,5200,11.0,58,2120,-4.3,5,32.8,0.34,,CERLALC / BNP,Contracción moderada
+Perú,2017,5300,10.8,57,2040,-1.8,6,33.3,0.32,,CERLALC / BNP,Inestabilidad política
+Perú,2018,5400,10.5,55,1940,-2.8,7,33.7,0.31,,CERLALC / BNP,Escándalos políticos afectan consumo
+Perú,2019,5500,10.2,54,1850,-2.9,8,34.2,0.30,Crisis política,CERLALC / BNP,Disolución Congreso
+Perú,2020,4500,8.0,40,1780,-21.6,11,34.7,0.23,Pandemia COVID-19,CERLALC / BNP,Cierre total librerías
+Perú,2021,5800,10.0,50,1720,25.0,14,35.2,0.28,Recuperación,CERLALC / BNP,Rebote post-pandemia
+Perú,2022,6200,11.2,56,1810,12.0,16,35.6,0.31,Recuperación,CERLALC / BNP,FIL Lima 2022 récord
+Perú,2023,6000,10.5,53,1750,-6.3,18,36.1,0.29,Estabilización,CERLALC / BNP,Crisis política modera consumo
+Perú,2024,5800,9.8,49,1690,-6.7,19,36.6,0.27,Contracción,CERLALC / BNP,Inestabilidad institucional
+Perú,2025,5600,9.2,46,1640,-6.1,20,37.0,0.25,Contracción (est.),Proyección CERLALC,Estimado tendencia 2024
+Ecuador,2000,800,2.1,11,2630,,,12.3,0.17,,CERLALC / BCE,Dolarización impacta precios de libros
+Ecuador,2001,850,2.2,11,2590,4.8,,12.5,0.18,,CERLALC / BCE,Adaptación a economía dolarizada
+Ecuador,2002,900,2.3,12,2560,4.5,,12.7,0.18,,CERLALC / BCE,Crecimiento lento
+Ecuador,2003,920,2.4,12,2610,4.3,,12.8,0.19,,CERLALC / BCE,Estabilización
+Ecuador,2004,950,2.5,13,2630,4.2,,13.0,0.19,,CERLALC / BCE,Expansión petróleo impulsa economía
+Ecuador,2005,980,2.6,14,2650,4.0,,13.2,0.20,,CERLALC / BCE,Crecimiento
+Ecuador,2006,1000,2.7,14,2700,3.8,,13.4,0.20,,CERLALC / BCE,Inicio gobierno Correa
+Ecuador,2007,1100,2.9,15,2640,7.4,,13.6,0.21,,CERLALC / BCE,Inversión pública en educación sube
+Ecuador,2008,1300,3.3,17,2540,13.8,,13.8,0.24,,CERLALC / BCE,Revolución ciudadana; libros gratuitos
+Ecuador,2009,1350,3.4,17,2520,3.0,,14.0,0.24,Crisis global,CERLALC / BCE,Leve impacto
+Ecuador,2010,1400,3.6,19,2570,5.9,,14.2,0.25,,CERLALC / BCE,Expansión educativa pública
+Ecuador,2011,1500,3.9,20,2600,8.3,,14.5,0.27,,CERLALC / BCE,Buen desempeño
+Ecuador,2012,1650,4.2,22,2550,7.7,1,14.7,0.29,,CERLALC / BCE,Pico del período Correa
+Ecuador,2013,1700,4.3,23,2530,2.4,2,14.9,0.29,,CERLALC / BCE,Estabilización
+Ecuador,2014,1720,4.2,22,2440,-2.3,3,15.1,0.28,,CERLALC / BCE,Caída precio petróleo afecta economía
+Ecuador,2015,1680,4.0,21,2380,-4.8,4,15.3,0.26,,CERLALC / BCE,Ajuste fiscal por caída del petróleo
+Ecuador,2016,1600,3.7,19,2310,-7.5,5,15.5,0.24,,CERLALC / BCE,Terremoto 7.8° afecta distribución
+Ecuador,2017,1580,3.6,19,2280,-2.7,6,15.8,0.23,,CERLALC / BCE,Cambio gobierno; continuidad
+Ecuador,2018,1560,3.5,18,2240,-2.8,7,16.0,0.22,,CERLALC / BCE,Ajuste económico
+Ecuador,2019,1540,3.4,18,2210,-2.9,8,16.2,0.21,Crisis social oct 2019,CERLALC / BCE,Protestas; cierre comercios
+Ecuador,2020,1300,2.8,14,2150,-17.6,11,16.4,0.17,Pandemia COVID-19,CERLALC / BCE,Impacto severo; economía frágil
+Ecuador,2021,1550,3.3,17,2130,17.9,14,16.7,0.20,Recuperación,CERLALC / BCE,Rebote moderado
+Ecuador,2022,1700,3.7,19,2180,12.1,16,16.9,0.22,Recuperación,CERLALC / BCE,FIL Guayaquil recupera asistencia
+Ecuador,2023,1650,3.5,18,2120,-5.4,18,17.1,0.20,Estabilización,CERLALC / BCE,Crisis seguridad afecta consumo
+Ecuador,2024,1580,3.3,17,2090,-5.7,19,17.4,0.19,Contracción,CERLALC / BCE,Inestabilidad política y económica
+Ecuador,2025,1500,3.1,16,2070,-6.1,20,17.6,0.18,Contracción (est.),Proyección CERLALC,Estimado tendencia 2024
+Bolivia,2000,320,0.80,4,2500,,,8.4,0.10,,CERLALC / BNB,Mercado más pequeño de la región
+Bolivia,2001,330,0.82,4,2480,2.5,,8.5,0.10,,CERLALC / BNB,Crecimiento mínimo
+Bolivia,2002,340,0.85,4,2500,3.7,,8.7,0.10,,CERLALC / BNB,Estabilidad relativa
+Bolivia,2003,330,0.83,4,2510,-2.4,,8.8,0.09,Crisis política,CERLALC / BNB,Inestabilidad política afecta mercado
+Bolivia,2004,350,0.88,5,2510,6.0,,9.0,0.10,,CERLALC / BNB,Recuperación
+Bolivia,2005,380,0.95,5,2500,8.0,,9.2,0.10,,CERLALC / BNB,Inicio gobierno Morales
+Bolivia,2006,420,1.05,5,2500,10.5,,9.3,0.11,,CERLALC / BNB,Expansión educativa pública
+Bolivia,2007,460,1.15,6,2500,9.5,,9.5,0.12,,CERLALC / BNB,Inversión estatal en educación
+Bolivia,2008,500,1.25,7,2500,8.7,,9.7,0.13,,CERLALC / BNB,Boom gas natural; economía crece
+Bolivia,2009,510,1.28,7,2510,2.4,,9.9,0.13,Crisis global,CERLALC / BNB,Leve impacto; economía aislada
+Bolivia,2010,540,1.35,7,2500,5.5,,10.0,0.14,,CERLALC / BNB,Crecimiento sostenido
+Bolivia,2011,570,1.43,8,2510,5.9,,10.2,0.14,,CERLALC / BNB,Expansión
+Bolivia,2012,600,1.50,8,2500,4.9,1,10.4,0.14,,CERLALC / BNB,Pico del período Morales
+Bolivia,2013,620,1.55,9,2500,3.3,2,10.6,0.15,,CERLALC / BNB,Estabilización
+Bolivia,2014,630,1.57,9,2490,1.3,2,10.8,0.15,,CERLALC / BNB,Leve desaceleración
+Bolivia,2015,620,1.53,8,2470,-2.5,3,11.0,0.14,,CERLALC / BNB,Caída precio gas; ajuste presupuesto
+Bolivia,2016,610,1.50,8,2460,-2.0,4,11.1,0.14,,CERLALC / BNB,Contracción moderada
+Bolivia,2017,600,1.47,8,2450,-2.0,5,11.3,0.13,,CERLALC / BNB,Estancamiento
+Bolivia,2018,590,1.44,8,2440,-2.0,6,11.5,0.13,,CERLALC / BNB,Ajuste económico
+Bolivia,2019,560,1.38,7,2460,-4.2,7,11.6,0.12,Crisis política oct 2019,CERLALC / BNB,Renuncia Morales; cierre comercios
+Bolivia,2020,480,1.15,6,2400,-16.7,10,11.8,0.10,Pandemia COVID-19,CERLALC / BNB,Impacto severo
+Bolivia,2021,560,1.32,7,2360,14.8,13,12.1,0.11,Recuperación,CERLALC / BNB,Rebote lento
+Bolivia,2022,600,1.43,8,2380,8.3,15,12.3,0.12,Recuperación,CERLALC / BNB,FIL Cochabamba recupera
+Bolivia,2023,580,1.37,7,2360,-4.2,17,12.5,0.11,Estabilización,CERLALC / BNB,Crisis política modera consumo
+Bolivia,2024,560,1.30,7,2320,-5.1,18,12.7,0.10,Contracción,CERLALC / BNB,Tensiones políticas internas
+Bolivia,2025,540,1.25,6,2280,-3.8,19,12.9,0.10,Contracción (est.),Proyección CERLALC,Estimado tendencia 2024
