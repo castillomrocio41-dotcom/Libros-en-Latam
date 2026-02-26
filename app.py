@@ -30,7 +30,7 @@ import plotly.graph_objects as go  # Para gráficos más avanzados y personaliza
 # Define cómo se ve la pestaña del navegador y el layout general.
 
 st.set_page_config(
-    page_title="📚 Mercado Editorial LATAM",
+    page_title="Mercado Editorial LATAM",
     page_icon="📚",
     layout="wide",
     initial_sidebar_state="expanded"
